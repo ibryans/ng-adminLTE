@@ -1,10 +1,10 @@
 export const configuration = {
   projectName : {
-    firstName: 'Project',
-    lastName: 'Name',
-    minimalName: 'PN'
+    firstName: 'Base',
+    lastName: 'Remédios',
+    minimalName: 'BR'
   },
-  localStorageKey: 'PROJECT-NAME-APP',
+  localStorageKey: 'BASE-REMEDIOS-APP',
   logoPath: '',
   skin: 'skin-blue',
   userDefaultImage: 'assets/default-user.png',

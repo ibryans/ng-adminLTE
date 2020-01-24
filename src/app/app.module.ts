@@ -13,7 +13,6 @@ import { PaginationModule } from '@pluritech/pagination';
 import { Ng2TableModule } from '@pluritech/ng2-responsive-table';
 import { ChartsModule } from 'ng2-charts/ng2-charts';
 import { BootstrapModalModule } from 'ng2-bootstrap-modal';
-import { FileUploadModule } from 'ng2-file-upload/file-upload/file-upload.module';
 import { ToasterModule } from 'angular2-toaster';
 import { NgxMaskModule } from 'ngx-mask';
 import { QuillModule } from 'ngx-quill';
@@ -69,7 +68,6 @@ import { configuration } from './configuration';
     NgxMaskModule.forRoot(),
     PaginationModule,
     BootstrapModalModule,
-    FileUploadModule,
     ToasterModule.forRoot(),
     QuillModule,
     Ng2TableModule,
